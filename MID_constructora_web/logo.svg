@@ -1,7 +1,0 @@
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-<defs><style>
-path{stroke:#0a3fa8;stroke-width:4;fill:none;stroke-dasharray:600;stroke-dashoffset:600;animation:draw 3s ease forwards}
-@keyframes draw{to{stroke-dashoffset:0}}
-</style></defs>
-<path d="M50 150 L50 80 L70 60 L90 70 L110 40 L130 60 L150 80 L150 150 Z"/>
-</svg>
